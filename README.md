@@ -14,7 +14,7 @@ Clone this project and run using: streamlit run app.py
 This model will train according to the data present in the `Data` folder.
 
 **Screenshots:**
-![Screenshot](screenshots/1.jpg)
+![Screenshot](Screenshots/1.jpg)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
