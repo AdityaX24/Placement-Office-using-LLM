@@ -7,14 +7,18 @@ This is an LLM (Large Language Model) trained using the GPT-3.5 Turbo model and 
 The connection between the model and the user interface is established using an API provided by OpenAI itself.
 
 **How to Run:**
-Clone this project and run using: 
+Clone this project and run using: streamlit run app.py
 
 
 **Model Training:**
 This model will train according to the data present in the `Data` folder.
 
 **Screenshots:**
-*Include relevant screenshots here.*
+![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
+
 
 **Disclaimer:**
 The dataset used/given in this repository is created by the authors and does not depict the actual placement statistics of the University.
