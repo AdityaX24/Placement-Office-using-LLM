@@ -15,9 +15,9 @@ This model will train according to the data present in the `Data` folder.
 
 **Screenshots:**
 ![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/LandingPage.jpeg)
-![Screenshot](screenshots/screenshot.png)
-![Screenshot](screenshots/screenshot.png)
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/2.jpeg)
+![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/Chat.jpeg)
+![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/ErrorMsg.jpeg)
 
 
 **Disclaimer:**
