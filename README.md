@@ -14,7 +14,7 @@ Clone this project and run using: streamlit run app.py
 This model will train according to the data present in the `Data` folder.
 
 **Screenshots:**
-![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/LandingPage.jpegg)
+![Screenshot](https://github.com/AdityaX24/Placement-Office-using-LLM/blob/main/Screenshots/LandingPage.jpeg)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
